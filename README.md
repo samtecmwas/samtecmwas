@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samtecmwas an undergraduate student at Meru university.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning a bechelor in Computer science.
+- 🌱 I’m currently pursuing a bechelor degree in Computer science.
 - 💞️ I’m looking to collaborate and contribute to  open source projects.
 - 📫 if you want to reach me email: samuelmwangi8789@gmail.com
 
